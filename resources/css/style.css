@@ -25,8 +25,18 @@ body {
     font-size: 16px;
 }
 
+/*  MAIN  */
+
+
 p {
     font-size: 21px;
     color: gray;
 }
 
+/*  FOOTER  */
+
+
+.footer--copyright {
+    text-align: right;
+    color: gray;
+}
