@@ -33,6 +33,13 @@ p {
     color: gray;
 }
 
+/*  MEDIA  */
+
+.margin {
+    margin-top: 22px;
+    padding-bottom: 1px;
+}
+
 /*  FOOTER  */
 
 
